@@ -51,7 +51,7 @@
 
 ---
 
-[5. Анализ убыткой приложения Procrastinate Pro+](https://github.com/GavrikovAlex/Yandex_Practicum_DA/blob/main/5_business_analisis/5_business_analisis.ipynb)
+[5. Анализ убытков приложения Procrastinate Pro+](https://github.com/GavrikovAlex/Yandex_Practicum_DA/blob/main/5_business_analisis/5_business_analisis.ipynb)
 
 В этом проекте я изучил окупаемость затрат на маркетинг приложения, описала возможные причины неэффективности привлечения пользователей и дала рекомендации для рекламного отдела.
 
