@@ -39,3 +39,14 @@
 
 ---
 
+[4. Исследование популярности игр](https://github.com/GavrikovAlex/Yandex_Practicum_DA/blob/main/4_games/4_games_online_store.ipynb)
+
+В этом проекте я выявил закономерности, определяющие успешность игры.
+
+Сферы деятельности: 
+
+Инструменты: Pandas, Seaborn, Matplotlib, NumPy
+
+Направление деятельности: Маркетинг-аналитик, продуктовый аналитик
+
+---
