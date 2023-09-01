@@ -87,7 +87,7 @@ Cферы деятельности: Стартапы, Бизнес, Оффлай
 
 ---
 
-[8. Выявление профилей потребителей](https://github.com/GavrikovAlex/Yandex_Practicum_DA/blob/main/8_final_e-comm/8.final_ecom_user_segmentation.ipynb)
+[8. Финальный проект. Выявление профилей потребителей](https://github.com/GavrikovAlex/Yandex_Practicum_DA/blob/main/8_final_e-comm/8.final_ecom_user_segmentation.ipynb)
 
 В этом проекте я провел сегментацию пользователей интернет-магазина на основе их покупок.
 
