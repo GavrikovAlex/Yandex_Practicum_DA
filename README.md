@@ -86,3 +86,11 @@ Cферы деятельности: Стартапы, Бизнес, Оффлай
 Направление деятельности: Data Analyst, Маркетинг-аналитик
 
 ---
+
+[8. Выявление профилей потребителей](https://github.com/GavrikovAlex/Yandex_Practicum_DA/blob/main/8_final_e-comm/8.final_ecom_user_segmentation.ipynb)
+
+Cферы деятельности: Интернет-магазины
+
+Инструменты: Pandas, Numpy, Matplotlib, Plotly, Seaborn, Scipy
+
+Направление деятельности: Data Analyst
