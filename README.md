@@ -72,3 +72,11 @@
 Инструменты: Pandas, Seaborn, Matplotlib, SciPy
 
 Направление деятельности: Маркетинг-аналитик
+
+---
+
+[7. Анализ рынка общественного питания Москвы](https://github.com/GavrikovAlex/Yandex_Practicum_DA/blob/main/7_moscow_catering/7_moscow_catering.ipynb)
+
+В этом проекте я исследовал рынок общественного питания на основе открытых данных и подготовил презентацию для инвесторов.
+
+---
