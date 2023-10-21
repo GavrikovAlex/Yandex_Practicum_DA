@@ -13,6 +13,8 @@
 
 Направление деятельности: Data Analyst
 
+**Статус проекта: Завершен**
+
 ---
 
 [2. Исследование надежности заемщиков](https://github.com/GavrikovAlex/Yandex_Practicum_DA/blob/main/2_preprocessing/2_data_preprocessing.ipynb)
@@ -24,6 +26,8 @@
 Инструменты: Python, Pandas
 
 Направление деятельности: Data Analyst, Финансовый аналитик
+
+**Статус проекта: Завершен**
 
 ---
 
@@ -37,6 +41,8 @@
 
 Направление деятельности: Data Analyst, Маркетинг-аналитик
 
+**Статус проекта: Завершен**
+
 ---
 
 [4. Исследование популярности игр](https://github.com/GavrikovAlex/Yandex_Practicum_DA/blob/main/4_games/4_games_online_store.ipynb)
@@ -48,6 +54,8 @@
 Инструменты: Pandas, Seaborn, Matplotlib, NumPy
 
 Направление деятельности: Маркетинг-аналитик, Продуктовый аналитик
+
+**Статус проекта: Завершен**
 
 ---
 
@@ -61,6 +69,8 @@
 
 Направление деятельности: Маркетинг-аналитик, Продуктовый аналитик
 
+**Статус проекта: Завершен**
+
 ---
 
 [6. Принятие решений в бизнесе](https://github.com/GavrikovAlex/Yandex_Practicum_DA/blob/main/6_business_decisions/6_business_decisions.ipynb)
@@ -72,6 +82,8 @@
 Инструменты: Pandas, Seaborn, Matplotlib, SciPy
 
 Направление деятельности: Маркетинг-аналитик
+
+**Статус проекта: Завершен**
 
 ---
 
@@ -85,6 +97,8 @@ Cферы деятельности: Стартапы, Бизнес, Оффлай
 
 Направление деятельности: Data Analyst, Маркетинг-аналитик
 
+**Статус проекта: Завершен**
+
 ---
 
 [8. Финальный проект. Выявление профилей потребления](https://github.com/GavrikovAlex/Yandex_Practicum_DA/blob/main/8_final_e-comm/8.final_ecom_user_segmentation.ipynb)
@@ -97,6 +111,8 @@ Cферы деятельности: Интернет-магазины
 
 Направление деятельности: Data Analyst
 
+**Статус проекта: Завершен**
+
 ---
 
 [9. Финальный проект. A/B-тест](https://github.com/GavrikovAlex/Yandex_Practicum_DA/blob/main/9_final_ab-test/9._final_AB_test.ipynb)
@@ -108,5 +124,7 @@ Cферы деятельности: Маркетинг
 Инструменты: Pandas, Matplotlib, Plotly, DateTime, SciPy, Math, NumPy
 
 Направление деятельности: Data Analyst, A/B-тестирование, Проверка статистических гипотез, Маркетинг-аналитик
+
+**Статус проекта: Завершен**
 
 ---
